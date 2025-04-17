@@ -1,4 +1,4 @@
-Hi, I’m @ilianaatzini and I’m a Computer Scientist
+Hi, I’m @ilianaatzini and I’m a Software Engineer.
 I’m currently actively looking for a job.
 Here, you can find some of my work!
 You can reach me through my LinkedIn account: https://www.linkedin.com/in/iliana-atzini-0275a7212/
